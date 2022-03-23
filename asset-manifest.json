@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/gw-pages/static/css/main.31d6cfe0.css",
+    "main.js": "/gw-pages/static/js/main.1afac497.js",
+    "index.html": "/gw-pages/index.html",
+    "main.1afac497.js.map": "/gw-pages/static/js/main.1afac497.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1afac497.js"
+  ]
+}
